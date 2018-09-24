@@ -4,7 +4,7 @@ An analysis of tweets written during the presidential elections in the USA. The 
 
 # Main Goal
 **Identifying blue and red states** By combining sentiment analysis and geo-info, can we get an idea of how much a candidate is liked/disliked in a state? How does this compare to election results 
-
+**Put more essential stuff here** 
 
 # Interesting Statistics 
 - **Who likes to tweet?** The average number of tweets per inhabitant for each state.
