@@ -105,3 +105,20 @@ plt.pie(sizes,
         colors=colors )
 plt.axis('equal')
 plt.show()
+
+
+# We will also analyse the percentages when only considering
+# high confidence gender classification (not counting the
+# mostly_male/female counts)
+male_count = cnt['male']
+female_count = cnt['female']
+total_gendered = male_count + female_count
+female_percent = (female_count / total_gendered) * 100
+male_percent = (male_count / total_gendered) * 100
+print("\n\n **** WHEN CONSIDERING ONLY STRONGLY CLASSIFIED NAMES **** ")
+print('\nOut of all {} tweet, {} or {:.2f}% can be assigned a gender.'.format(total, total_gendered, gendered_percent))
+print('\nOut of all {} tweet that can be assigned a gender, \
+{} are male and {} are female.'.format(total_gendered, male_count, female_count))
+print('That is to say, {:.2f}% male and {:.2f}% female '.format(male_percent, female_percent))
+
+
