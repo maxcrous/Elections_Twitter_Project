@@ -13,6 +13,7 @@ An analysis of tweets written during the presidential elections in the USA. The 
 - **International preferences.** Do other countries tend to side with Hillary, Trump, or both? Which countries engaged most with the elections on twitter, and why. Are first world countries more likely to engage, or is it more dependent on geographical locations?
 - **Mexico?** Are there any interesting patterns involving Mexico. Are there correlations of the number of Mexican tweets and controversial statements corcerning Mexico made by the candidates. 
 - **Gender identification. (Max)** ✅ Whose used twitter most during the elections, men or women? What are the differences in candidate preference and twitter behavior between men and women. 
+- **Ethinicity.** Are we able to find link a users name to their ethnicity? Is there a significant difference in candidate preference when considering ethnicity? 
 - **Nationwide opinion on candidates.** When analyzing the sentiment of all tweets in the data, are there interesting patterns, such as a widespread like or dislike of candidates? Does this correspond to the final aggregated votes.?
 - **Visibility (Daphnee)** How visible were the candidates on twitter, i.e., what is the total number of hashtags and @'s that refer to a specific candidate. 
 - **Optimists or pessimists? (Albert)** ✅  What is the total amount of positive/negative tweets?
