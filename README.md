@@ -26,3 +26,8 @@ An analysis of tweets written during the presidential elections in the USA. The 
 
 # Files
 Tweets with sentiment analysis (Positive, Negative, Neutral) and whether they speak about trump, hillary, both or neither: https://www.dropbox.com/s/n2ddj9l7m7bahen/customTweetsWithSentiment.jsons?dl=0
+
+
+
+# Literature
+[Validation of Twitter opinion trends with national polling aggregates: Hillary Clinton vs Donald Trump](https://goo.gl/FJD73s)
