@@ -9,7 +9,7 @@ An analysis of tweets written during the presidential elections in the USA. The 
 # Interesting Statistics 
 - **Who likes to tweet? (Savvina)** ✅ The average number of tweets per inhabitant for each state.
 - **Peaks and valleys of activity. (Savvina)** At what time of the day do people tweet (on an hourly scale and dayly scale). 
-- **Retweetable?** Which kind of tweets are retweated the most. Are neutral tweet more or less likely to be retweeted than positive and negative tweets?
+- **Retweetable? (Albert)** Which kind of tweets are retweated the most. Are neutral tweet more or less likely to be retweeted than positive and negative tweets?
 - **International preferences.** Do other countries tend to side with Hillary, Trump, or both? Which countries engaged most with the elections on twitter, and why. Are first world countries more likely to engage, or is it more dependent on geographical locations?
 - **Mexico?** Are there any interesting patterns involving Mexico. Are there correlations of the number of Mexican tweets and controversial statements corcerning Mexico made by the candidates. 
 - **Gender identification. (Max)** ✅ Whose used twitter most during the elections, men or women? What are the differences in candidate preference and twitter behavior between men and women. 
