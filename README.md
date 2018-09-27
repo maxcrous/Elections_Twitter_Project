@@ -32,3 +32,6 @@ Tweets with sentiment analysis (Positive, Negative, Neutral) and whether they sp
 
 # Literature
 [Validation of Twitter opinion trends with national polling aggregates: Hillary Clinton vs Donald Trump](https://goo.gl/FJD73s)
+
+[Demographic Breakdown of Twitter Users:
+An analysis based on names](https://pdfs.semanticscholar.org/4d5a/8e25a3c01dd06fb31721f5550e3f8a174298.pdf)
