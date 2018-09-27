@@ -17,6 +17,7 @@ An analysis of tweets written during the presidential elections in the USA. The 
 - **Nationwide opinion on candidates.** When analyzing the sentiment of all tweets in the data, are there interesting patterns, such as a widespread like or dislike of candidates? Does this correspond to the final aggregated votes.?
 - **Visibility (Daphnee)** How visible were the candidates on twitter, i.e., what is the total number of hashtags and @'s that refer to a specific candidate. 
 - **Optimists or pessimists? (Albert)** ✅  What is the total amount of positive/negative tweets?
+- **Trump or Hillary? (Albert)** ✅  Is Trump or Hillary more popular on Twitter?
 - **News Agencies (Elena)**. What is the percentage of tweets that originate from news agencies. How does this compare to the tweets originating from normal users. 
 - **Writing style.** Is there a linguistic difference between a Pro/Anti Trump and Pro/Anti Hillary tweet. Think of sentence lengths and average amount of vowels. Can language models be used to predict whether a tweet is #withher or #maga.
 - **###Hashtags.** What are the most popular hashtags? Is there a power law distribution (only a very small proportion of hashtags are very popular). Can we use these hashtags in our sentiment analysis?
