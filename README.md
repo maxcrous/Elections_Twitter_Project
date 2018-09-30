@@ -3,8 +3,8 @@ An analysis of tweets written during the presidential elections in the USA. The 
 
 
 # Main Goal
-**Identifying blue and red states** By combining sentiment analysis and geo-info, can we get an idea of how much a candidate is liked/disliked in a state? How does this compare to election results     
-**Sentiment analysis.** For this project, sentiment analysis is very important. We need to find an appropriate / well performing sentiment analysis library. Try out different libraries that work out of the box (a function that takes a string and returns a pos/neu/neg score). Report which one works best on the first 100 tweets. A good start could be  nltk.sentiment.vader or other sentiment analysers in the nltk library.
+- **Identifying blue and red states** By combining sentiment analysis and geo-info, can we get an idea of how much a candidate is liked/disliked in a state? How does this compare to election results      
+- **Sentiment analysis.** For this project, sentiment analysis is very important. We need to find an appropriate / well performing sentiment analysis library. Try out different libraries that work out of the box (a function that takes a string and returns a pos/neu/neg score). Report which one works best on the first 100 tweets. A good start could be  nltk.sentiment.vader or other sentiment analysers in the nltk library.
 
 **Put more essential stuff here** 
 
