@@ -8,6 +8,12 @@ An analysis of tweets written during the presidential elections in the USA. The 
 
 **Put more essential stuff here** 
 
+# Raport writing 
+- **Write an introduction.** What is our report about, what assignment does it concern, where is our dataset from and what are trying to accomplish. 
+- **Abstract.**. Probably only possible to write this one when the rest is done. 
+
+
+
 # Interesting Statistics 
 - **Who likes to tweet? (Savvina)** ✅ The average number of tweets per inhabitant for each state.
 - **Peaks and valleys of activity. (Savvina)** ✅ At what time of the day do people tweet (on an hourly scale and dayly scale). 
