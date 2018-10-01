@@ -31,7 +31,9 @@ An analysis of tweets written during the presidential elections in the USA. The 
 - **###Hashtags. (Max)** ✅ What are the most popular hashtags? Is there a power law distribution (only a very small proportion of hashtags are very popular). Can we use these hashtags in our sentiment analysis?
 - **Co-occurence network of hashtags.** Aka, which hashtags appear together? This can produce some cool networks like the one found [here](https://goo.gl/DEc875). This might also give us some insight into whether the neutral tags #Hillary and #Trump are more often used in a positive or a negative sense. 
 - **Topic modelling for Hillary vs Trump.** What are the topics that come up from Hillary vs Trump?
-- **How faithful are users?** When users posts pro Hillary tweets, do they do this consistently, or do they switch teams and become pro Trump? This could give us insights into changing public opinion (see this [image](https://goo.gl/6ohaXg)). This could be due to different people joining the conversation or due to poeple changing their opinion. 
+- **How faithful are users?** When users posts pro Hillary tweets, do they do this consistently, or do they switch teams and become pro Trump? This could give us insights into changing public opinion (see this [image](https://goo.gl/6ohaXg)). This could be due to different people joining the conversation or due to poeple changing their opinion.   
+- **Emojis?** Which emojis are used most, other interesting stats.   
+
 
 # Files
 Tweets with sentiment analysis (Positive, Negative, Neutral) and whether they speak about trump, hillary, both or neither: [Dropbox](https://www.dropbox.com/s/n2ddj9l7m7bahen/customTweetsWithSentiment.jsons?dl=0)
