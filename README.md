@@ -33,7 +33,7 @@ An analysis of tweets written during the presidential elections in the USA. The 
 - **Topic modelling for Hillary vs Trump.(Albert)** What are the topics that come up from Hillary vs Trump?
 - **How faithful are users?** When users posts pro Hillary tweets, do they do this consistently, or do they switch teams and become pro Trump? This could give us insights into changing public opinion (see this [image](https://goo.gl/6ohaXg)). This could be due to different people joining the conversation or due to poeple changing their opinion.   
 - **Emojis?** Which emojis are used most, other interesting stats.   
-
+- **Feelings over time (Savvina)** Was the public opinion towards the two candidates stable over time?
 
 # Files
 Tweets with sentiment analysis (Positive, Negative, Neutral) and whether they speak about trump, hillary, both or neither: [Dropbox](https://www.dropbox.com/s/n2ddj9l7m7bahen/customTweetsWithSentiment.jsons?dl=0)
