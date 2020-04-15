@@ -1,5 +1,6 @@
 # Elections_Twitter_Project
-An analysis of tweets written during the presidential elections in the USA. The report for this project can be found at https://www.overleaf.com/19991169vdwgfswrcmkp#/73316941/.
+An analysis of tweets written during the presidential elections in the USA. The report for this project can be found at
+[here (PDF)](https://drive.google.com/open?id=127K6uQqTScw6yAJBKGg8gUZaKyxkVv2h) and on [overleaf](https://www.overleaf.com/19991169vdwgfswrcmkp#/73316941/).
 
 
 # Main Goal
